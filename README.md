@@ -10,7 +10,7 @@ DepartementsFrance is a composer-compatible library. It's not on packagist, but 
     "repositories": [
 		{
 			"type": "git",
-			"url": "https://github.com/mrk-te/departementsfrance"
+			"url": "https://github.com/mrk-te/departementsfrance.git"
 		}
 	],
 	"require": {
