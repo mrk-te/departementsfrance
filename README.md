@@ -1,7 +1,7 @@
 DepartementsFrance
 ==================
 
-DepartementsFrance translate a french postal code or department number into his name.
+DepartementsFrance translates a french postal code or department number into his name.
 
 Usage
 -----
@@ -10,7 +10,7 @@ DepartementsFrance is a composer-compatible library. It's not on packagist, but 
     "repositories": [
 		{
 			"type": "git",
-			"url": "https://github.com/spronkey/phphonex"
+			"url": "https://github.com/mrk-te/departementsfrance"
 		}
 	],
 	"require": {

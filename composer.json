@@ -2,13 +2,13 @@
     "name": "mrk/departementsfrance",
     "description": "Get french department name from the postal code",
     "keywords": ["France","Department","Geography"],
-    "homepage": "https://github.com/spronkey/phphonex",
+    "homepage": "https://github.com/mrk-te/departementsfrance",
     "license": "GNU GPL",
     "authors": [
         {
             "name": "Marc Teinturier",
             "email": "m@m-te.fr",
-            "homepage": "https://github.com/spronkey",
+            "homepage": "https://github.com/mrk-te",
             "role": "Developer"
         }
     ],
