@@ -1,5 +1,4 @@
 <?php
-require_once('../src/Mrk/DepartementsFrance/DepartementsFrance.php');
 
 use Mrk\DepartementsFrance\DepartementsFrance;
 
